@@ -24,6 +24,7 @@ The following were used to run and use the scripts.
 + Description:
 	* The board communicates in Morse code the string stored in a constant char array.
 
+
 ### Keypad Password ###
 
 * This project contains the code and a third-party library for the keypad.
